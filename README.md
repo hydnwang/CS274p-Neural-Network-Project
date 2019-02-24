@@ -28,4 +28,7 @@
 - **Pandas**: `0.24.1`
 - **Tensorflow**: `1.12.0`
 - **Keras**: `2.2.4`
+- **Scikit-learn**: 
+- **matplotlib**: 
+
 
